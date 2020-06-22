@@ -8,8 +8,13 @@
 
 ## 过程
 
-- 安装 Docker 软件
+- Docker 
 
-```
-brew cask install docker
-```
+    - 安装 dmg
+    
+    - 设置加速镜像
+    
+    ![](./images/1.png)
+    
+
+- 
