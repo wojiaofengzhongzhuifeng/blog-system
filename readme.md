@@ -16,7 +16,7 @@ React + Typescript + Next.js + TypeORM + Docker + Jenkins
 
 - [根据技术选型搭建环境](https://github.com/wojiaofengzhongzhuifeng/blog-system/blob/master/readmes/environment.md)
 
-
+- [根据功能确定接口](https://github.com/wojiaofengzhongzhuifeng/blog-system/blob/master/readmes/api.md)
 
 
 
