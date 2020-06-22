@@ -14,7 +14,7 @@ React + Typescript + Next.js + TypeORM + Docker + Jenkins
 
 ## 记录开发过程
 
-- [根据技术选型搭建环境]()
+- [根据技术选型搭建环境](https://github.com/wojiaofengzhongzhuifeng/blog-system/blob/master/readmes/environment.md)
 
 
 
